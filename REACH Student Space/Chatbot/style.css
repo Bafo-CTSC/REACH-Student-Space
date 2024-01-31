@@ -1,0 +1,62 @@
+/* This is the CSS file that styles your webpage */
+/* You can use any design you like, but make sure the elements are aligned and easy to read */
+
+/* Style the body element */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+/* Style the h1 element */
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+/* Style the p element */
+p {
+    text-align: center;
+    font-size: 18px;
+}
+
+/* Style the form element */
+form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+/* Style the input element */
+input {
+    width: 300px;
+    height: 40px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 16px;
+}
+
+/* Style the button element */
+button {
+    width: 100px;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+    margin-left: 10px;
+    background-color: #333;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+/* Style the div element */
+div {
+    width: 80%;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+}
